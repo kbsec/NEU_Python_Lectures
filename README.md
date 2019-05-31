@@ -14,12 +14,12 @@ The course is broken up into a series of lectures that are designed to be presen
 
 [comment]:LECTURE_SLIDES
 
-# [Lecture 1:](/Lecture_slides/Lecture_1_intro.slides.html) 
-# [Lecture 2:](/Lecture_slides/Lecture_2.slides.html) 
+## [Lecture 1:](/Lecture_slides/Lecture_1_intro.slides.html) 
+## [Lecture 2:](/Lecture_slides/Lecture_2.slides.html) 
 
 [comment]:LECTURE_SLIDES
 
-# Lectures
+# Lecture Jupyter Notebooks 
 # [Lecture 1:](Lectures_code/Lecture_1_intro.ipynb)
 - This lecture introduces the course, and helps students write their first program (obligitory ``"Hello World!"``)
 

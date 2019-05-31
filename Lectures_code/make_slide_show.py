@@ -4,7 +4,7 @@ import os
 
 # the slides are generated using reveal.js
 nb_string = "jupyter nbconvert {notebook} --to slides "
-lecture_base = '# [Lecture {num}:](/Lecture_slides/{slide}) \n'
+lecture_base = '## [Lecture {num}:](/Lecture_slides/{slide}) \n'
 notebooks = [i for i in os.listdir(".") if i.endswith(".ipynb")]
 slide_comment = "[comment]:LECTURE_SLIDES"
 README = "../README.md"
