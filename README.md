@@ -10,12 +10,23 @@ Coding to Calculus started out as an offshoot of the [Bridge to Calculus](https:
 ## Structure
 The course is broken up into a series of lectures that are designed to be presented using Jupyter notebook and reveal.js. The ultimate goal is to have an accompanying  blog post/live presentation to supplement the more complex lectures and topics. Topics from calculus  are introduced, but the main purpose of this course is to strenghten a student's background and understanding of Geometry and Algebra.
 
-## Lectures
+# Lecture Slides
+
+[comment]:LECTURE_SLIDES
+
+# [Lecture 1:](/Lecture_slides/Lecture_1_intro.slides.html) 
+# [Lecture 2:](/Lecture_slides/Lecture_2.slides.html) 
+
+[comment]:LECTURE_SLIDES
+
+# Lectures
 # [Lecture 1:](Lectures_code/Lecture_1_intro.ipynb)
 - This lecture introduces the course, and helps students write their first program (obligitory ``"Hello World!"``)
 
 # [Lecture 2:](Lectures_code/Lecture_2.ipynb)
 - This lecture introduces students to basic arithmetic in python and uses several built in datatypes as a motivating example. It also briefly introduces the rules of algebra in the context of Python.
+
+
 
 
 
