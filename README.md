@@ -16,6 +16,7 @@ The course is broken up into a series of lectures that are designed to be presen
 
 ## [Lecture 1:](/Lecture_slides/Lecture_1_intro.slides.html) 
 ## [Lecture 2:](/Lecture_slides/Lecture_2.slides.html) 
+## [Lecture 3:](/Lecture_slides/Lecture_3.slides.html) 
 
 [comment]:LECTURE_SLIDES
 
